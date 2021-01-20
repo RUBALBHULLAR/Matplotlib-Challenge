@@ -1,8 +1,6 @@
 # Matplotlib - The Power of Plots
 
 
-!![Laboratory](Images/Laboratory.jpg)
-
 The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The tasked by the executive team is to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ## Instructions
