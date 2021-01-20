@@ -45,3 +45,10 @@ Here are some final considerations:
 
 
 
+### Observations and Insights
+* Overall,all the drug regimen started with a same number of mice and the number of data points on drug regimens Ramicane and Capomulin suggests that more mice reached a timepoint.
+* The sex distribution in almost equally split between male and female.
+* The Drug Ramicane shows the greatest reduction of tumor volume based on mean and final tumor volume.
+* Ketapril on the other hand shows the least tumor reduction and least consistent results.
+* Across the four regimens of interest, Infubinol has an outlier with an average tumor downwards.
+* Moreover,weight of mouse and average tumor increses in the correlation and linear regreession model.
